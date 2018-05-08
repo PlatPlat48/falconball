@@ -19,7 +19,7 @@ Peter Gutenko (Software & Software/Hardware Integration)
 ## Resources
 
 * PC/Mac with Unity
-* The Unity scene found [here](www.github.com/pgutenko/falconball)
+* The Unity scene found [here](https://www.github.com/pgutenko/falconball)
 * The Novint Falcon
 * Three 3D Printed Parts [(Seen here)](https://drive.google.com/file/d/17SCNblyjmt6xiE_PzqIuWfQsTN8A_lu0/view?usp=sharing)
 * A Simple Foam Platform (Or a 3D Printed One)
