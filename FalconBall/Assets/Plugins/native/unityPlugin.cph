@@ -1,0 +1,6 @@
+extern "C" {
+    int StartThread();
+	const char* PrintHello();
+	int IsDataPresent();
+    const char* GetUpdate();
+}

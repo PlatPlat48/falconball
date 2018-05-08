@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D6B63443-1251-4206-E6DA-C21148346BA9}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collectable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="45" Column="91" />
+      <File FileName="Assets/Scripts/MouseControl.cs" Line="61" Column="31" />
+      <File FileName="Assets/Scripts/FalconIO.cs" Line="37" Column="42" />
+      <File FileName="Assets/Scripts/Collectable.cs" Line="21" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
